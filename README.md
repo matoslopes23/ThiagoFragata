@@ -1,5 +1,6 @@
 <h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou Thiago Henrique Fragata</h1>
-<h3 align="center">👨🏻‍💻 Desenvolvedor Web & Estudante de Engenharia de Software</h3>
+<h3 align="center">🦄 Desenvolvedor Web & UX | UI</h3>
+<h3 align="center">👨🏻‍🎓Estudante de Engenharia de Software</h3>
 <h4 align="center">😻 Amante das Tecnologias</h4>
 
 - 👀 Estou interessado em aprender React, typescript, Next e React Native
