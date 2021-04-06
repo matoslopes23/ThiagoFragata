@@ -10,7 +10,7 @@
 - 🚀 Vamos nos conectar? https://app.rocketseat.com.br/me/thiago-fragata-6969
 
 <h2>Minhas Skills</h3>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagofragata)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoFragata)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
 <a href="https://www.linkedin.com/in/thiago-henrique-fragata-2603b5207/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="thiagofragata" height="20" width="20" /></a>
