@@ -19,6 +19,12 @@
 <a href="https://www.instagram.com/_thiagofragata/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="thiagofragata" height="20" width="20" /></a>
 </p>
 
+### 📈 My Stats
+|My overall statistics|Top most languages |
+|------------------|-------------|
+|![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=ThiagoFragata&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)|![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoFragata&langs_count=10&count_private=true&hide_border=true&theme=tokyonight&layout=compact)|
+
+
 <!---
 ThiagoFragata/ThiagoFragata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
